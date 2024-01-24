@@ -1,12 +1,12 @@
 {
-  "name": "it-frogs-tp-02",
+  "name": "BookShelf",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build --base=/it-frogs-tp-02/",
+    "build": "vite build --base=/BookShelf/",
     "preview": "vite preview"
   },
   "devDependencies": {
